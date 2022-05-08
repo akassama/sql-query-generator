@@ -1,0 +1,25 @@
+.bg-sel{
+    background-color: aliceblue;
+}
+
+.hide-div{
+    display: none;
+}
+
+.query-output{
+    min-height: 6.6rem;
+    background-color: #e9ecef;
+    font-family: "Courier New" Courier monospace;
+}
+
+.code-sample{
+    font-family: "monospace", "Lucida Console", "Courier New";
+}
+
+.f-right{
+    float:right;
+}
+
+.f-left{
+    float:left;
+}
